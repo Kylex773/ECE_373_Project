@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Brayden\ Burgess\r\n
+comment1.params=
+comment1.target=Controller()
+comment2.params=op
+comment2.target=double\ doOperation(char)
+comment3.params=v1\ v2\ isPtr1\ isPtr2
+comment3.target=void\ setValues(double,\ double,\ boolean,\ boolean)
+numComments=4

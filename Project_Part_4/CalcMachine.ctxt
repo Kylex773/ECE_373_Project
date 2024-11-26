@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalcMachine
+comment1.params=
+comment1.target=CalcMachine()
+comment2.params=state
+comment2.target=void\ setCalcState(CalcState)
+numComments=3

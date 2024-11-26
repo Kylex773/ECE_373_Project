@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=promptState
+comment1.params=machine\ functType\ userData
+comment1.target=promptState(Machine,\ boolean,\ UserData)
+numComments=2

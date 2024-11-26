@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=S3
+comment1.params=machine\ userData\ controller\ answer
+comment1.target=S3(CalcMachine,\ UserData,\ Controller,\ double)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Register
+comment0.text=\r\n\ Kyle\r\n
+comment1.params=memVal
+comment1.target=Register(double)
+comment2.params=
+comment2.target=Register()
+comment3.params=newVal
+comment3.target=void\ setVal(double)
+comment4.params=
+comment4.target=double\ getVal()
+numComments=5

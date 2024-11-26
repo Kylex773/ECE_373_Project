@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PathItem
+comment0.text=\r\n\ Kyle\r\n
+comment1.params=val1\ val2
+comment1.target=PathItem(double,\ double)
+comment2.params=
+comment2.target=PathItem()
+comment3.params=val1\ val2
+comment3.target=void\ setVals(double,\ double)
+comment4.params=
+comment4.target=double\ getOutput()
+numComments=5

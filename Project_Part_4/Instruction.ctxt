@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Instruction
+comment0.text=\r\n\ Brayden\ Burgess\r\n
+comment1.params=
+comment1.target=Instruction()
+comment2.params=val1\ val2\ op
+comment2.target=Instruction(double,\ double,\ char)
+comment3.params=
+comment3.target=double\ getValue1()
+comment4.params=
+comment4.target=double\ getValue2()
+comment5.params=
+comment5.target=OpCode\ getOperation()
+comment6.params=newVal1
+comment6.target=void\ setValue1(double)
+comment7.params=newVal2
+comment7.target=void\ setValue2(double)
+comment8.params=newOp
+comment8.target=void\ setOperation(char)
+numComments=9
