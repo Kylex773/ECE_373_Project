@@ -13,7 +13,12 @@ public class Calculator
         
         CalcMachine calcStateMachine = new CalcMachine();
         
-        Screen.print("Welcome to the calculator!");
+        String welcome = ("Welcome to the Calculator\nEnter a command (? for list): ");
+        
+        Screen.print(welcome);
+        
+        
+        
         
         while(true) {
             try {

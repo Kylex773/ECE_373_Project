@@ -1,6 +1,6 @@
 public class valuesState extends screenState
 {
-    public valuesState(Machine machine, boolean functType, UserData userData, double val1, double val2,
+    public valuesState(Machine machine, int functType, UserData userData, double val1, double val2,
     boolean isPtr1, boolean isPtr2, char opChar){
         super(machine, functType, userData);
     

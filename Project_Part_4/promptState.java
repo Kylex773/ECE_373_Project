@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class promptState extends screenState //do prompt state
 {
-    public promptState(Machine machine, boolean functType, UserData userData){
+    public promptState(Machine machine, int functType, UserData userData){
         super(machine, functType, userData);
     
     

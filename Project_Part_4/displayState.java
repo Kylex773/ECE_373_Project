@@ -1,6 +1,6 @@
 public class displayState extends screenState //do display
 {
-    public displayState(Machine machine, boolean functType, UserData userData, double answer){
+    public displayState(Machine machine, int functType, UserData userData, double answer){
         super(machine, functType, userData);
         
         char op = userData.getOpChar();
