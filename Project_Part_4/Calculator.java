@@ -19,7 +19,7 @@ public class Calculator
             try {
                 calcStateMachine.setCalcState(new S0(calcStateMachine, userData, controller));
                 
-                //Below obsolete (done by state machine):
+                //Below obsolete (done by above state machine):
                 
                 //main calculator code
                 //Screen.prompt(userData);
